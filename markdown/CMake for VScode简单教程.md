@@ -83,9 +83,9 @@
 
 ​	这个网站不用魔法也可以访问
 
-​	<a>https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/</a>
+​	<a>https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-posix/seh/</a>
 
-​	进去之后点击网页左侧那个<span style="color: green;">超级亮眼的绿油油的**Download Latest Version**</span>就可以下载鸭嗦包了。（或者直接使用作者在download文件夹中给出的鸭嗦包）MinGW的安装需要你找一个地方，把这个鸭嗦包解压到那个地方。**解压后不要着急关掉鸭嗦包所在的窗口**。接下来，我们需要**将 MinGW 的 `bin` 目录添加到系统环境变量中。**
+​	进去之后点击网页里面那个<span style="color: blue;">蓝色的**x86_64-8.1.0-release-posix-seh-rt_v6-rev0.7z**</span>就可以下载鸭嗦包了。（或者直接使用作者在download文件夹中给出的鸭嗦包）MinGW的安装需要你找一个地方，把这个鸭嗦包解压到那个地方。**解压后不要着急关掉鸭嗦包解压后文件夹所在的窗口**。接下来，我们需要**将 MinGW 的 `bin` 目录添加到系统环境变量中。**
 
 ​	在开始菜单搜索“环境变量”。
 
